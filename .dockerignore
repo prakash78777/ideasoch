@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+.git
+vendor
+node_modules
+public/build
+public/hot
+public/storage
+storage/logs/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+storage/app/public/businesses/idea.mp4
+database/*.sqlite
+database/*.sqlite-*
